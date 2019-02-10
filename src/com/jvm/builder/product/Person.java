@@ -1,4 +1,4 @@
-package com.jvm.loader.builder.product;
+package com.jvm.builder.product;
 
 public abstract class Person {
     protected String head;

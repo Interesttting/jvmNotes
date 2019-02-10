@@ -1,7 +1,7 @@
-package com.jvm.loader.builder.builder;
+package com.jvm.builder.builder;
 
-import com.jvm.loader.builder.product.Person;
-import com.jvm.loader.builder.product.Woman;
+import com.jvm.builder.product.Person;
+import com.jvm.builder.product.Woman;
 
 /**
  * 具体建造者

@@ -1,7 +1,7 @@
-package com.jvm.loader.builder.actor;
+package com.jvm.builder.actor;
 
-import com.jvm.loader.builder.builder.PersonBuilder;
-import com.jvm.loader.builder.product.Person;
+import com.jvm.builder.builder.PersonBuilder;
+import com.jvm.builder.product.Person;
 
 /**
  * 类说明：导演者

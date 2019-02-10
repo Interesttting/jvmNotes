@@ -1,6 +1,6 @@
-package com.jvm.loader.builder.builder;
+package com.jvm.builder.builder;
 
-import com.jvm.loader.builder.product.Person;
+import com.jvm.builder.product.Person;
 
 /**
  * 抽象建造者

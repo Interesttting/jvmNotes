@@ -1,8 +1,8 @@
-package com.jvm.loader.builder.client;
+package com.jvm.builder.client;
 
-import com.jvm.loader.builder.actor.NvWa;
-import com.jvm.loader.builder.builder.ManBuilder;
-import com.jvm.loader.builder.builder.WomanBuilder;
+import com.jvm.builder.actor.NvWa;
+import com.jvm.builder.builder.ManBuilder;
+import com.jvm.builder.builder.WomanBuilder;
 
 /**
  * 类说明：客户端
